@@ -4,6 +4,7 @@ title:      "不同平台渲染的差异"
 subtitle:   ""
 date:       2016-08-13
 author: 	"YW"
+header-img: "img/view.jpg"
 tags:
     - Shader
 ---
