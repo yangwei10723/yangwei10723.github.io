@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.yangwei.threadcrashtest",
+    "sha256_cert_fingerprints":
+    ["91:99:51:92:49:61:9E:92:6A:35:C0:89:4B:1F:D9:69:51:55:AB:D4:A1:37:49:18:C1:1A:71:DB:4B:B3:75:45"]
+  }
+}]
